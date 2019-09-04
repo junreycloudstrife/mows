@@ -1,3 +1,3 @@
 # mows
 
-MQTT over Websocket Web Application
+MQTT over Websocket Web Application Template
